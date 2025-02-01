@@ -1,2 +1,2 @@
-# programa-o-do-zero
+# programacao-do-zero
 Aprendendo Programação do Zero
